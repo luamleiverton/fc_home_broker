@@ -1,0 +1,5 @@
+{
+  "/wallets/:wallet_id/assets": "/wallet-assets",
+  "/wallets/:wallet_id/orders": "/orders"
+
+}

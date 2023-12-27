@@ -1,0 +1,312 @@
+{
+  "wallet-assets": [
+    {
+      "asset_id": "asset1",
+      "wallet_id": "wallet1",
+      "shares": 1000,
+      "created_at": "2018-01-01T00:00:00Z",
+      "updated_at": "2018-01-01T00:00:00Z",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "asset1",
+        "price": 100
+      }
+    },
+    {
+      "asset_id": "asset2",
+      "wallet_id": "wallet1",
+      "shares": 500,
+      "created_at": "2018-01-01T00:00:00Z",
+      "updated_at": "2018-01-01T00:00:00Z",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "asset1",
+        "price": 200
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "order1",
+      "wallet_id": "wallet1",
+      "asset_id": "asset1",
+      "shares": 1000,
+      "price": 100,
+      "type": "BUY",
+      "status": "OPEN",
+      "created_at": "2018-01-01T00:00:00Z",
+      "updated_at": "2018-01-01T00:00:00Z",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "asset1",
+        "price": "100"
+      }
+    },
+    {
+      "id": "order2",
+      "wallet_id": "wallet1",
+      "asset_id": "asset1",
+      "shares": 500,
+      "price": 100,
+      "type": "SELL",
+      "status": "OPEN",
+      "created_at": "2018-01-01T00:00:00Z",
+      "updated_at": "2018-01-01T00:00:00Z",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "asset1",
+        "price": "100"
+      }
+    },
+    {
+      "id": "9QhPd8L"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "CgPtm9w"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "1NHyxtt"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "c13ovCa"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "vFxXf-L"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "jwcC7nO"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "tzMUHBd"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "ZGocAAF"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "OONpsgk"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "8O-lmJa"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "z7gCzjA"
+    },
+    {
+      "shares": "1",
+      "price": "2",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "_CPSt5x"
+    },
+    {
+      "shares": "",
+      "price": "",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "qzBH3E8"
+    },
+    {
+      "shares": "",
+      "price": "",
+      "asset_id": "order1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "order1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "vi8BPRm"
+    },
+    {
+      "shares": "1",
+      "price": "4",
+      "asset_id": "asset1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "8Xsx-ml"
+    },
+    {
+      "shares": "1",
+      "price": "5",
+      "asset_id": "asset1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "gVFxVlZ"
+    },
+    {
+      "shares": "2",
+      "price": "4",
+      "asset_id": "asset1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "ERbL7Mz"
+    },
+    {
+      "shares": "2",
+      "price": "4",
+      "asset_id": "asset1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "Z5MPV7X"
+    },
+    {
+      "shares": "1",
+      "price": "1",
+      "asset_id": "asset1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "7ZCZ75q"
+    },
+    {
+      "shares": "2",
+      "price": "1.1",
+      "asset_id": "asset1",
+      "type": "BUY",
+      "status": "OPEN",
+      "Asset": {
+        "id": "asset1",
+        "symbol": "PETR4",
+        "price": 30
+      },
+      "id": "161-Kgi"
+    }
+  ]
+}
