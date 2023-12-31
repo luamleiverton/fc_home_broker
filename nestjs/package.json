@@ -2,7 +2,10 @@
   "dependencies": {
     "@nestjs/mapped-types": "*",
     "@nestjs/microservices": "^9.0.0",
-    "@prisma/client": "^5.7.0",
+    "@prisma/client": "^5.7.1",
     "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "prisma": "^5.7.1"
   }
 }

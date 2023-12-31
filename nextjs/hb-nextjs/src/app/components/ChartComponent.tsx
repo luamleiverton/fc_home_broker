@@ -102,7 +102,7 @@ export const ChartComponent = forwardRef<
     window.addEventListener("resize", handleResize);
     return () => {
       window.removeEventListener("resize", handleResize);
-      //chart.remove();
+      chart.remove();
     };
   }, []);
 
